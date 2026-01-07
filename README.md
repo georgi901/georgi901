@@ -201,7 +201,7 @@ class Developer {
 I'm always excited to collaborate on interesting projects, discuss programming concepts, or just chat about tech!
 
 [![GitHub](https://img.shields.io/badge/GitHub-georgi901-181717?style=for-the-badge&logo=github)](https://github.com/georgi901)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-00FF88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-00FF88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spatarugeorgiana799@gmail.com)
 
 **💡 Open to:** Collaborations | Code Reviews | Learning Together | Project Ideas
 
