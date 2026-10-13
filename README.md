@@ -72,6 +72,7 @@ class Developer {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -80,12 +81,11 @@ class Developer {
 
 </div>
 
-### Expanding Into
+### Currently Exploring
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
@@ -93,31 +93,20 @@ class Developer {
 ---
  
 ## Featured Projects
- 
-<div align="center">
-  
-| Project | Description | Tech Stack | 
-|---------|-------------|------------|
-|**[StudyAPP](https://github.com/VisanCristian/Proiect-Metode-de-Dezvoltare-Software)** | Full-stack study platform built in a team of three, with a Pomodoro timer, flashcards, Markdown files, study groups, and an integrated AI assistant | `React` `Django REST Framework` `Python` | 
-|**[Lena's Ballet Boutique](https://github.com/georgi901/Lena-s-Ballet-Boutique)** | Online boutique for professional ballet equipment, costumes, and accessories | `HTML` `CSS` |
-|**[Art Nouveau Guest](https://github.com/georgi901/ArtNouveauGuest)** | Object-oriented virtual art gallery with mini-games and a personal collection with a points system | `C++` `OOP` `Game Dev` |
- 
-</div>
+
+| Project | What I built | Technologies |
+| --- | --- | --- |
+| **[StudyAPP](https://github.com/georgi901/StudyAPP)** | Collaborative learning platform with Pomodoro tracking, flashcards, activity reports, study groups, and an integrated AI assistant. | `React` `Django` `Python` `n8n` |
+| **[Art Gallery Manager](https://github.com/georgi901/art-gallery-manager)** | Full-stack gallery management system with JWT authentication, role-based access, secure image uploads, Oracle integration, tests, and Docker support. | `Node.js` `Express` `Oracle` `JWT` |
+| **[Rust Axum System Monitor](https://github.com/georgi901/rust-axum-system-monitor)** | Asynchronous REST API for health checks and CPU, memory, disk, and process metrics, with background collection and graceful shutdown. | `Rust` `Axum` `Tokio` |
+| **[ArtNouveauGuest](https://github.com/georgi901/ArtNouveauGuest)** | Object-oriented virtual art gallery with mini-games, interactive challenges, and a personal art collection system. | `C++` `OOP` |
+| **[Lena's Ballet Boutique](https://github.com/georgi901/Lena-s-Ballet-Boutique)** | Responsive online boutique for professional ballet equipment, costumes, and accessories. | `HTML` `CSS` `JavaScript` |
 
 ---
 
 ##  Academic Foundation
 
 Operating Systems · Algorithms · Linear Algebra · Numerical Methods · Object-Oriented Programming · Computer Networks · Databases · Probability and Statistics · Software Development Methods
-
----
-
-##  Goals
-
-- [ ]  Build a machine learning project from scratch and understand every step of it
-- [ ]  Learn Rust and build a systems project
-- [ ]  Deepen Java and backend development
-- [ ]  Contribute to open-source projects
 
 ---
 
