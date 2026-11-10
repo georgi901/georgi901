@@ -96,6 +96,7 @@ class Developer {
 
 | Project | What I built | Technologies |
 | --- | --- | --- |
+| **[REXA NetAware](https://github.com/georgi901/RexaNetAware)**<br><sub>Recently featured · 2026</sub> | Local network security and learning tool created by team REXA during the Smarthack hackathon. Discovers devices, analyzes exposed services, tracks scan history, and provides grounded AI-assisted explanations and remediation guidance. | `Python` `FastAPI` `SQLite` `React` `nmap` |
 | **[StudyAPP](https://github.com/georgi901/StudyAPP)** | Collaborative learning platform with Pomodoro tracking, flashcards, activity reports, study groups, and an integrated AI assistant. | `React` `Django` `Python` `n8n` |
 | **[Art Gallery Manager](https://github.com/georgi901/art-gallery-manager)** | Full-stack gallery management system with JWT authentication, role-based access, secure image uploads, Oracle integration, tests, and Docker support. | `Node.js` `Express` `Oracle` `JWT` |
 | **[Rust Axum System Monitor](https://github.com/georgi901/rust-axum-system-monitor)** | Asynchronous REST API for health checks and CPU, memory, disk, and process metrics, with background collection and graceful shutdown. | `Rust` `Axum` `Tokio` |
